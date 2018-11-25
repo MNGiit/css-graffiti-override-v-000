@@ -5,12 +5,8 @@
   display: none;
 }
 
-.tag-2 {
-  background: url(../images/tag-2.png) no-repeat;
-  z-index: 7;
-  display: block;
-}
 
 #wall .tag-2 {
   display: none;
 }
+
